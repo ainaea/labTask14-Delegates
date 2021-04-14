@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\MulticastDelegateApp.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\MulticastDelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\MulticastDelegateApp.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\MulticastDelegateApp.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\MulticastDelegateApp.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\bin\Debug\net5.0\MulticastDelegateApp.exe
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\bin\Debug\net5.0\MulticastDelegateApp.deps.json
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\bin\Debug\net5.0\MulticastDelegateApp.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\bin\Debug\net5.0\MulticastDelegateApp.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\bin\Debug\net5.0\MulticastDelegateApp.dll
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\bin\Debug\net5.0\ref\MulticastDelegateApp.dll
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\bin\Debug\net5.0\MulticastDelegateApp.pdb
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\MulticastDelegateApp.dll
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\ref\MulticastDelegateApp.dll
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\MulticastDelegateApp.pdb
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\MulticastDelegateApp\obj\Debug\net5.0\MulticastDelegateApp.genruntimeconfig.cache

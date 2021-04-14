@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\bin\Debug\net5.0\DesmondLimited.exe
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\bin\Debug\net5.0\DesmondLimited.deps.json
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\bin\Debug\net5.0\DesmondLimited.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\bin\Debug\net5.0\DesmondLimited.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\bin\Debug\net5.0\DesmondLimited.dll
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\bin\Debug\net5.0\ref\DesmondLimited.dll
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\bin\Debug\net5.0\DesmondLimited.pdb
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\DesmondLimited.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\DesmondLimited.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\DesmondLimited.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\DesmondLimited.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\DesmondLimited.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\DesmondLimited.dll
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\ref\DesmondLimited.dll
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\DesmondLimited.pdb
+C:\CodebitsAcademy\C#  labTask\LabTask14-Delegates\DesmondLimited\obj\Debug\net5.0\DesmondLimited.genruntimeconfig.cache
